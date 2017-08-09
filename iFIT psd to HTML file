@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link rel="Untitled_1.css" type="text/css" href="Untitled_1.css">
+<title>iFIT</title>
+<style>
+div img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+div img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+ </style>
+</head>
+
+<body>
+	<div class="top-nav"><p style="background-color: black; color:blue">i
+		<span style="color:white">FIT</span>
+		<span style="padding-left:1320px; background-color:black; color:white"> Login Sign Up Menu = </span>
+			</style>
+		</p>
+	</div>
+
+
+	<div class="second-nav"><style="background-color: white;">Weight Loss<span style="padding-left:1130px;">Overview Features Programs Training</span>
+	</div>
+
+	<img src="https://ixlj7w.by3301.livefilestore.com/y4m6kzpPnrhtglZu1y2bMzButXFxmQX8VUYzxdOCd3JU4so8HLxDD8yJhTV8dbfS_tpoQsd3zv1zyz6jFJniRQoSZumKSxIeJ0NcCOTqfYFHDFcxBa9oBrtBjFrYuvdUIuBk4V2DoaDYM5P4lI8sT0EnYpMA-A4K4dbwZvX8RqQ5QC5gkx6czpjfCMtyC88hQoKRPFmXQcNyeO5M69uIDySYQ?width=1400&height=628&cropmode=none" alt="banner" style="height:628px;" width="1553">
+ 		<h3 style="text-align:center">Weight Loss</h3>
+ 		<p style="text-align:center">Welcome to the center of it all. The Fitness Shop presents you with hundreds of workout
+ 			<br> programs designed to guid your weight loss journey.</br></p>
+ 
+  	<div class="animated_photos" style="margin-left:190px;">
+			<img src="https://ixiuew.by3301.livefilestore.com/y4mqRDAkeGEBzEPZ7R-KEOb-yRdeQiglwZdCNEbjU_V4SReGIho_gM2Q4qTV8Ppv0Ry7Vthn167qSUzkkxy8FhOsD3ttg74DnUqqNZ63BGfUtNxVhAEF8dQ-F1cl1W-NvgGG5JSxpS1Pzm3OkZes1rVAjv3C_bksS43-RmWVi9_hfXxFqDbCGFvxsbRKCb4casIxwblT_h_5g7w0U7pQ5QvwA?width=237&height=241&cropmode=none" alt="weight loss w jm" style="width:237px;height:241px;">
+			 &nbsp; &nbsp; &nbsp;<img src="https://ixktbg.by3301.livefilestore.com/y4mOK9OpuVzeRzt18SVfMuzya5LUtCIvfU-hVFA9q7NXWtfdUBTOdrxUeWn0UINpoj4YqIXOfAus_YfIxJNGRsukxp7d9Fg7kTHIaDZ1C3Kebzw50-OobBANt-8NmouueIlGZ2lBMmt624a3xxlZfs4HYvxpqI0YTxdkwI0MBmCkstYWb7n3XCBz6fr1iA_FdaALaS4CmRBXjO6Mt1xoyesug?width=238&height=238&cropmode=none" alt="grand canyon" style="width=238px;height:238px;">
+			 &nbsp; &nbsp; &nbsp;<img src="https://ixl4kq.by3301.livefilestore.com/y4mRIWRB6Juj49jZCxBAW1SN0iENOyGIVM0hh8snE-Eh9IP5lRxBr8eudY-42vXkUpRT1lVA_5NW2SczjbE5YAws5BISMdL_yQw49i2LIG-M7DLg43AGqpaPZUpUBllOGHBzyW0Vg95gfNJk-Eu57Kzd29Gx3TX3aMFEObQwdq--_xSmMr4hSWaEUimtI6MiLcYRsTSsjkJ59GvectB150gkg?width=239&height=239&cropmode=none" alt="power walking" style="width:238px;height:238px;">  
+			 &nbsp; &nbsp; &nbsp;<img src="https://ixjdhq.by3301.livefilestore.com/y4me9FaiVcnOQfoJcDdXEPtpmWENpvmDgiHouCmw80CnrB2UCxDWVohJxrLdOGs9D9qUyrqFFWRCG2wd73m8b_SfITIwdIMNncp3OfQ40Xvp3SqVPPkXP5CZN1MQ-N7yV8lHzIxh_RVQlBop6i185y20ojK73j476ExuUh7NalEmGiWj7yW_5uIHa8ZjLUYDJfvzOsmKkbUhkqNdVtTEYNcKA?width=236&height=238&cropmode=none" alt="eliptical weight loss" style="width:238px; 238px;">
+				<h3>Get Fit with Jillian Michaels Grand Canyon  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Power Walk  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Eliptical Weight Loss</h3>
+	  				<h6>Weight Loss  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Incline Training  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp &nbsp; &nbsp; &nbsp;Power Walking  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Weight Loss Training</h6>
+		
+		<br><img src="https://8squeq.by3301.livefilestore.com/y4mQLezNcNo-MiSnb3H-TIas-bkYQRZ3Rz4aCfmxgrUHmQhc_d0uiarVCOARrQAr9G_980syJpMuBk-I2kwOUX4XpljFcWY0Oc2GeG3hTYYMdUJ3gIY_Y_11ecqrPXuTGFWhdC7zAeyPAo4yMda99_P2PsX_S2LTJuOoK9DL9z0HG2zBYj2mBXIag_a51Kg5CB1x3Lw8bjM4J7XrEn_7rCd9A?width=239&height=238&cropmode=none" alt="weight loss" style="width:238px;height238px;">
+			 &nbsp; &nbsp; &nbsp;<img src="https://8s9tbq.by3301.livefilestore.com/y4mqPweugsBMYCdf9ihLEw3bthDUYYvk2ymjpmy8LVJjh4wRbD_WU_xvmuC2fG9V6s8EUhXc4rHu3lxpf5cJy3FjVmoRmV8snKCk1wc6K-3lTjiXLFQ6dR1Qs_kmIQJp6ezKa6e0acBUOYF4KX7595W3SBlWr1qvl1CbmMWivq39IDAHDfUqH7bvqWf4S4cUb5n7Zdc5IYhCCsdHqBDYyBrIw?width=236&height=238&cropmode=none" alt="central park" style="width:238px;height:238px;">
+			 &nbsp; &nbsp; &nbsp;<img src="https://8sp4ka.by3301.livefilestore.com/y4mpntDzvoX_KS1569h-T-1QZva3N-_yYV3-7tVojnV7iKxTg3CmvfHtOMWOsICsVAT_yNuDud7cx3i6npsG3UI7_Z-qIM6rrxDX73yGsFxT_rv3OfUQcBFUrCK-CL65NlUj52f-bVVf_TQgVUtnzVyOSx7_gS_3UR9nq-8xz-sro4KhiIEd0ZnmiqOeyxs6RJZtSgLtvDPc4KKYOoPM1YxmA?width=237&height=237&cropmode=none" alt="5K beginner training" style="width:238px;height:238px;">
+			 &nbsp; &nbsp; &nbsp;<img src="https://v1uebw.by3301.livefilestore.com/y4mD6bROV7Gf7evIS24d-POlEFa9oNsMBG-MRhEFswnxyaVySa4APsu5jb5Su2bIgdP0t9v1s8yikqxBIjFyPY1KuKW1Z_W4FS6fImQFPxiruodBcyEnH26nopR3YomMgCzVyTXooAqeXHXREE6Radgczt0yEEteBQ9ak4Mhd25lY5k4LwYSdc6Ueu_L5nfHufBol21ElEiyJbmLUBOZgG5rA?width=238&height=228&cropmode=none" alt="going coastal" style="width:238px;height:238px;">
+				<h3>Off Season Weight Loss &nbsp;&nbsp;&nbsp;<style="border-width:452px;>Central Park </style>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5K Beginner Training &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Going Coastal</h3>
+					<h6>Cycling  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<style="border-width:452px;">Fitness </style>&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Running  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Running</h6>
+
+		<br style="padding-left:187px;">
+			<img src="https://8s9ata.by3301.livefilestore.com/y4mOwfQac6YqZgYq0bWCL8dRT2Hk-avY4pXgkO_UFMMa0J9iwlBLAEwtDOw9NVdT-DI0qJyG6eRLzzDIddMlAfnvtY5F-F1R67TaM6eAf-16SixFuInIRYoGhQDM5KRhWtU44Ah2undlDS_dcqEJoLVisSIFMXL_-YwhVKmi1O4d4UFq1W5AxjAjNk1htqEuwqzUJp_HbOm62-E8mPuAdRXOQ?width=238&height=238&cropmode=none" alt="eliptical weight loss" style="width:238px;height:238px">
+ 			&nbsp; &nbsp; &nbsp;<img src="https://8spq1w.by3301.livefilestore.com/y4m_EhLGP9s4blSL6P8kMU7c8co-Qj_hdQmAiMVt9CwOBSEiizpWdKEWRkBuqSItRCiqktGSQhocFBk13KtEcsLRgt5hVlUyZgmLFXCiR4XxnzkNTgQCoTgeJ4M7AdiZ4ZhrcDnLMshCbMZdfLAbSnJtgStIGlze-3X5QjyKytlP-LEzsSJtw3LySlTc0bhcfLuNYR7HMtAfgEzeN2GyMrm_A?width=236&height=234&cropmode=none" alt="incline train" style="width:238px;height:238px;">
+ 			&nbsp; &nbsp; &nbsp;<img src="https://8s8kyw.by3301.livefilestore.com/y4mrxA3Waez1JrSWCUAAqL0bg8DJV7_N3PjYgEqVbZSBT8wBYcixTfjDoYl9NRkuyYuBG56UganLsqGrPTHlibtV_bEUvET0Ysx29fV_l9xptIZQNAxq3gJ-BdOprXb8rx16mjWSFQcMIEaB1tONpUQnmgA94SD3-Yysi8_L7o8VqocwCBjTkNhyWoPQAyH7DPSdXk0DJVwkTpTR9Yi1mZjEQ?width=238&height=240&cropmode=none" alt="Paris" style="width:238px;height:238px;">
+ 			&nbsp; &nbsp; &nbsp;<img src="https://8spj7g.by3301.livefilestore.com/y4mfgdeRKPA7ljUepaeJmjNNXV9-Ui6o-ibPw43wqbgH7kqRCg0MM4uSvay1hr7geb3JF979eTTDjZFVcv_zJ_pZRzXjf-_aFNmBoPYKT0ENDSpF4htdQJTbwsA73gBVuxvR7PI3ib7RreMXT73v8H_gPhwBYlIqv6OeliqdWudKRQCw-Uqe1jy-0Y6Mmk_BC-xAqT8OkCML8ZbwexlPdMbXw?width=237&height=236&cropmode=none" alt="Lose Weight with Jillian Michaels" style="width:238px;height:238px;">
+		</br>
+				<h3>Elliptical Weight Loss <style="margin:452px;>&nbsp; &nbsp; &nbsp; &nbsp; Incline Train &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</style>Paris &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<style="padding-right:428px;">Lose Weight with Jillian Michaels</style></h3>
+					<h6>Weight Loss  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<style="margin-left:452px;">Incline Trainer  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</style>Running  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<style="margin-right: 300px;">Weight Loss</style></h6>
+	
+	</div> 
+	<br>
+		<button type="button" style="background-color:blue;color:white;text-align:center;margin-left:700px;padding-left:25px;padding-top:25px;padding-right:25px;padding-bottom:25px;">VIEW MORE</button>
+		<p style="text-align:center; background-color:black; padding-top:20px;padding-bottom:20px;color: white">To date I have lost 14 Kilos(30 pounds) and my fitness level is at least the same as when I was actively
+			<br>engaged in sport(if not better), thanks to iFIT and the range and variation of the fitness programs available.
+			<br><span style="margin-left:650px;color:blue;">-Graham Lambourne </span>
+		</p>
+		<p style="text-align:center">Get started on your weight loss journey. &nbsp; &nbsp; &nbsp;<button type="button" style="background-color:blue;color:white;text-align:center;padding-left:10px;padding-top:10px;padding-right:10px;padding-bottom:10px;">JOIN iFIT TODAY</button></p>
+
+		<p style="background-color:black; color:gray;font-family:Arial">BLOG-VIDEOS/SHOP/COMPANY/PRESS/JOBS/SUPPORT/LEGAL/CONTACT <span style="margin-left:550px">Copyright @iFIT.com. All rights reserved. LANGUAGE:ENGLISH</span style></p>
+</body>
+
+</html>
